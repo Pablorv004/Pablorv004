@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Hey! I'm Pablo, currently pursuing an associate's degree on cross-platform app development.<br> 
-🔭 I’m currently working on backend & frontend projects to complete my portfolio. (Currently on Eventify)<br>🌱 I’m currently developing my abilities on services, controllers, requests, views & plenty optimization with languages that i state below!<br>💬 Ask me about myself, who I am & my objectives. I'm always curious about new stuff as well, so don't be afraid to give me new knowledge on my projects. I'm always happy to work with other people.
+🔭 I’m currently working on backend & frontend projects to complete my portfolio. (Currently on Eventify, Libridex & OneSaber)<br>🌱 I’m currently developing my abilities on services, controllers, requests, views & plenty optimization with languages that i state below!<br>💬 Ask me about myself, who I am & my objectives. I'm always curious about new stuff as well, so don't be afraid to give me new knowledge on my projects. I'm always happy to work with other people.
 
 
 ## 🌐 Socials:
